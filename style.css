@@ -1,0 +1,118 @@
+    h1{
+    color:darkblue
+    }
+    p{
+        color:#e4befd;
+    }
+.header{
+    background-color:lightskyblue;
+    border-style: dashed;
+    border-color: #000cb4;
+    display:flex;
+    justify-content: space-evenly;
+    
+}
+body{
+    margin: 0px;
+    background-color: #8223db;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+}
+h2{
+    text-align: center;
+    color: rgb(44, 44, 241);
+    background-color: #00ffbf;
+}
+h3{
+    text-align: center;
+    color: #b1dffd;
+    background-color: #ff008c;
+    border-style: groove
+    
+}
+.procedure{
+    text-align: center;
+}
+a{
+    color: #ffc400;
+}
+.kk{
+    border-radius:  30px;
+    border-style: ridge;
+    padding: 30px;
+    font-size: 18px;
+    border: 2px solid #ff008c;
+    background-color: #ffa8ff;
+    color:#ff008c;
+    width: 350px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.grid img{
+    border:4px solid #ff008c;
+    border-radius: 40px;
+    margin-left: 20px;
+    justify-content: center;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+h4{
+    color: #ff008c;
+    font-family: cursive;
+    text-align: center;
+}
+h6{
+    
+    background-color: #ffa8ff;
+
+}
+.au{
+    background-color: #d426eb;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between ;
+}
+.fa{
+    font-size: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+.au p{
+    color: green;
+    font-size: 20px;
+    background-color: #ffc400;
+    border: 3px solid #84f800 ;
+    border-radius: 10px;
+}
+.p{
+    font-size: 25px;
+    background-color: #921be2 ;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between ;
+}
+.p h4{color: #f790f7;
+font-family:Georgia, 'Times New Roman', Times, serif}
+.fua{
+    font-size: 10px;
+    background-color:#9926e6;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.m{
+    display: flex;
+    flex-wrap: wrap;
+    width:100;
+    height: 100;
+    justify-content: left;
+    font-size: 20px;
+}
+.a h3{
+    background-color: #8213cc00;
+    color: #cb85fa;
+}
